@@ -12,4 +12,18 @@ namespace c0727454__week__04
         {
         }
     }
+
+
+
+    class Node
+    {
+
+        // Node is an adt
+        //what kind of data do we need in a Node?
+        public Node nextvillage;
+        public string pohir;
+        public bool isAstrildHere = false;
+
+
+    }
 }
